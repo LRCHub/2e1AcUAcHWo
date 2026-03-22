@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "この世がヤミだと言わないでおくれ feat.MINMI",
+  "base_artist": "サンボマスター",
+  "createdAt": "2026-03-22T20:39:40.553689Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "この世がヤミだと言わないでおくれ",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/01_この世がヤミだと言わないでおくれ_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "この世がヤミだと言わないでおくれ feat.MINMI",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_01_この世がヤミだと言わないでおくれ_feat.MINMI_サンボマスター.txt"
+    }
+  ]
+}
